@@ -10,6 +10,7 @@ int g;
 int e;
 int h;
 int num;
+int num2;
 
 
 
