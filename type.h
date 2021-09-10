@@ -4,10 +4,9 @@
 
 typedef struct MYGIT {
 int a;
-int b;
-char *f;
-char *g;
-char *e;
+int d;
+
+
 
 
 }MYGIT; 
