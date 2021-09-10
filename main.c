@@ -26,7 +26,7 @@ int main(int argc, char **argv) {
 void test_func(void) {
 
     int a = 1;
-    int b = 0;
+    int b = 1;
 
 
     printf("add a func\r\n");
