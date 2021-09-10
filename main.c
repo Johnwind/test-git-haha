@@ -7,7 +7,7 @@ void test_func(void);
 int main(int argc, char **argv) {
 
 
-    printf("hello git %s", "just a test.\r\n");
+    printf("hello git %s", "123 just a test.\r\n");
 
     MYGIT git;
 
