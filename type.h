@@ -6,6 +6,11 @@ typedef struct MYGIT {
 int a;
 int d;
 int f;
+int g;
+int e;
+int h;
+int num;
+int num2;
 
 
 
