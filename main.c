@@ -26,11 +26,7 @@ int main(int argc, char **argv) {
 void test_func(void) {
 
     int a = 1;
-<<<<<<< HEAD
-    int b = 10;
-=======
     int b = 2;
->>>>>>> b02
 
 
     printf("add a func\r\n");
