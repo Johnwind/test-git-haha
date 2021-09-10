@@ -23,7 +23,11 @@ int main(int argc, char **argv) {
 
 void test_func(void) {
 
-    printf("add a function123\r\n");
+    int a = 0;
+
+
+    printf("add a func\r\n");
+    printf("here %d\n", a);
 
 
 }
