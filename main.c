@@ -7,11 +7,13 @@
 int main(int argc, char **argv) {
 
 
-    printf("hello git %s", "this is a test for git abcd.\r\n");
+    printf("hello git %s", "this is a test for git 12abcd.\r\n");
 
     MYGIT git;
 
     MYGIT test;
+
+    
     
 
     return 0;
