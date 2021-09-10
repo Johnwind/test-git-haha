@@ -9,6 +9,7 @@ int f;
 int g;
 int e;
 int h;
+int num;
 
 
 
