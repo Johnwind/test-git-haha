@@ -11,6 +11,8 @@ int main(int argc, char **argv) {
 
     MYGIT git;
 
+    MYGIT git2;
+
     MYGIT test;
     
 
